@@ -1357,6 +1357,11 @@
             "url" : "http://rxjx.kuanjv.com/allm3u8.php?url="
         },
             {
+            "name" : "腾腾",
+            "type" : 1,
+            "url" : "http://43.143.123.112:8182/qq/api.php?tk=zdytv202211&defn=uhd&url="
+        },
+            {
             "name" : "荣兴",
             "type" : 1,
             "url" : "http://jx.dygfsdy.com/home/api?type=ys&uid=129415&key=acdmoruwxCDEKPZ679&url="
