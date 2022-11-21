@@ -43,6 +43,21 @@
            "api" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
             "ext" : "./js/百忙无果.js"
         },
+            {"key":"csp_xBPQ_dszb",
+             "name":"电视直播",
+             "type": 3,"api": "csp_xBPQ",
+             "searchable": 0,
+             "quickSearch": 0,"filterable": 0,
+             "ext": "https://raw.githubusercontents.com/ye1680/ssw/main/xBPQ/%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD.json"},
+            {"key":"csp_Bili",
+             "name":"哔哩┃饭",
+             "type": 3,
+             "api": "csp_Bili",
+             "searchable": 0,
+             "quickSearch": 0,
+             "filterable": 0,
+             "ext":"https://raw.githubusercontents.com/ye1680/js/main/XB/%E5%93%94%E5%93%A9.json",
+             "jar":"https://raw.githubusercontents.com/ye1680/js/main/jar/%E9%A5%AD%E7%A1%AC.jar"},
             {
             "key" : "drpy_js_菜狗",
             "name" : "官源|搜狗[DRPY]",
@@ -70,7 +85,7 @@
             "type" : 3,
            "api" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
             "ext" : "./js/酷云77.js"
-        },
+        }, 
             {
             "key" : "drpy_js_DJ音乐",
             "name" : "音频|DJ音乐[DRPY]",
