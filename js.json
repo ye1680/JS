@@ -49,11 +49,6 @@
              "searchable": 0,
              "quickSearch": 0,"filterable": 0,
              "ext": "https://raw.githubusercontents.com/ye1680/ssw/main/xBPQ/%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD.json"},
-            {"key":"csp_Bili",
-             "name":"🅱哔哩合集",
-             "type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,
-             "ext":"https://raw.githubusercontents.com/ye1680/js/main/XB/bilibili.json"
-        },
             {
             "key" : "drpy_js_菜狗",
             "name" : "官源|搜狗[DRPY]",
